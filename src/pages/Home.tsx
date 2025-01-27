@@ -28,7 +28,7 @@ export function Home() {
           </div>
           <div className="w-full lg:w-1/2">
             <img 
-              src="https://images.unsplash.com/photo-1537432376769-00f5c2f4c8d2?auto=format&fit=crop&w=800&q=80" 
+              src="https://ibb.co/Ns2Z3zx?auto=format&fit=crop&w=800&q=80" 
               alt="AI Interface"
               className="rounded-lg shadow-2xl w-full"
             />
